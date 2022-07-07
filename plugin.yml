@@ -1,0 +1,15 @@
+name: RandomTP
+main: RandomTP\Main
+api: [4.0.0]
+version: 1.0
+author: CraftCamp
+
+commands:
+  randomtp:
+    description: "Teleport to a Random Player"
+    permission: randomtp.use
+    aliases: ['rtp']
+
+permissions:
+  randomtp.use:
+    default: op
