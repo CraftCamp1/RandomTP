@@ -1,4 +1,4 @@
-# RandomTP
+# Easy Random Teleporter
 ![License](https://img.shields.io/github/license/CraftCamp1/RandomTP)
 
 Random Teleport Plugin for PocketMine-MP
