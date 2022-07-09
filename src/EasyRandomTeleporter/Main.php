@@ -1,6 +1,6 @@
 <?php
 
-namespace RandomTP;
+namespace EasyRandomTeleporter;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
