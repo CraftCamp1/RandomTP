@@ -6,4 +6,5 @@ projects:
   RandomTP:
     path: ""
     icon: "icon.png"
+    icon: "icon.png"
 ...
