@@ -1,9 +1,9 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/CraftCamp1/EasyRandomTeleporter
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/CraftCamp1/RandomTP
 build-by-default: true
 branches:
 - main
 projects:
-  EasyRandomTeleporter:
+  RandomTP:
     path: ""
     icon: "icon.png"
 ...

@@ -1,5 +1,5 @@
-name: EasyRandomTeleporter
-main: EasyRandomTeleporter\Main
+name: RandomTP
+main: RandomTP\Main
 api: [4.0.0]
 version: 1.0
 author: CraftCamp
@@ -7,9 +7,9 @@ author: CraftCamp
 commands:
   randomtp:
     description: "Teleport to a Random Player"
-    permission: EasyRandomTeleporter.use
+    permission: randomtp.use
     aliases: ['rtp']
 
 permissions:
-  EasyRandomTeleporter.use:
+  randomtp.use:
     default: op
