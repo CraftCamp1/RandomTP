@@ -11,7 +11,7 @@ Random Teleport Plugin for PocketMine-MP
 ```/randomtp``` and ```/rtp```
 
 # Permissions
-```randomtp.use``` accessible to op (default: op)
+```EasyRandomTeleporter.use``` accessible to op (default: op)
 
 # How to Install
 1. Download the plugin from [here](https://github.com/CraftCamp1/RandomTP/releases/tag/v1.0.0)
