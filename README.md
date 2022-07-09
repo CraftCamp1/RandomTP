@@ -14,7 +14,7 @@ Random Teleport Plugin for PocketMine-MP
 ```EasyRandomTeleporter.use``` accessible to op (default: op)
 
 # How to Install
-1. Download the plugin from [here](https://github.com/CraftCamp1/RandomTP/releases/tag/v1.0.0)
+1. Download the plugin from [here]()
 2. Put the ```EasyRandomTeleporter.phar``` file into the plugins folder of your server.
 3. Restart your server.
 4. Done!
