@@ -1,7 +1,7 @@
 name: RandomTP
 main: CraftCamp\RandomTP\Main
 api: [4.0.0]
-version: 1.0.1
+version: 1.0.2
 author: CraftCamp
 
 commands:
