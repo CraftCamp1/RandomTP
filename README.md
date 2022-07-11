@@ -1,6 +1,7 @@
 # RandomTP
 ![License](https://img.shields.io/github/license/CraftCamp1/RandomTP)
 [![](https://poggit.pmmp.io/shield.dl.total/RandomTP)](https://poggit.pmmp.io/p/RandomTP)
+[![](https://poggit.pmmp.io/shield.state/RandomTP)](https://poggit.pmmp.io/p/RandomTP)
 [![](https://poggit.pmmp.io/shield.api/RandomTP)](https://poggit.pmmp.io/p/RandomTP)
 
 Random Teleport Plugin for PocketMine-MP
